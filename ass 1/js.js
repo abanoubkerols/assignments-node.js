@@ -24,7 +24,7 @@
 
 // __________________________________________________________________________________________
 
-// **Create a function that returns the indeices of the two number in array which their summtion equal to the total_number variable 
+// **Create a function that returns the indeices of the two number in array which their summation equal to the total_number variable 
 //  Ex:
 // Array =[1,2,3,4,5,6]
 // Total_number = 10 
